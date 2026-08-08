@@ -10,10 +10,25 @@
 
 ## 🛠️ Tecnologias
 
-- Java
-- C
-- Git & GitHub
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,git,github,linux" />
+</p>
+
+## 📚 Em aprendizado
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+- 🔐 Cybersecurity
+
+## 🎯 Atualmente
+
+Aprofundando meus conhecimentos em **Java**, **Linux** e desenvolvimento **Backend**, construindo projetos para colocar em prática o que estou aprendendo.
+
+## 📌 Projetos
+
+🚧 Novos projetos em desenvolvimento.
 
 ## 📚 Em aprendizado
 
