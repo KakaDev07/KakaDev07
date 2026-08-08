@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Kaka 👋
 
-<!--
-**KakaDev07/KakaDev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Focado em desenvolvimento Backend com Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente estudando Java, Programação Orientada a Objetos, Spring Boot e Linux
+
+🔐 Também estudando e desenvolvendo conhecimentos em Cybersecurity
+
+## 🛠️ Tecnologias
+
+- Java
+- C
+- Git & GitHub
+- Linux
+
+## 📚 Em aprendizado
+
+- Spring Boot
+- SQL
+- Cybersecurity
+
+## 🎯 Atualmente
+
+Aprofundando meus conhecimentos em Java, Linux e desenvolvimento Backend, construindo projetos para colocar em prática o que estou aprendendo.
